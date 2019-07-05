@@ -1,6 +1,6 @@
 #include "sum.h"
 
 int sum(int n){
-	reuturn n*(n+1)*/2;
+	return n*(n+1)*/2;
 }
 
